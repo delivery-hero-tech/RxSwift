@@ -1,0 +1,18 @@
+Rx.xcodeproj/project.pbxproj
+  h_0f19d15cb4e1cd 4504,4683,4750
+Package@swift-5.9.swift
+  h_0f19d15cb4e1cd 99
+RxExample/RxExample.xcodeproj/project.pbxproj
+  h_0f19d15cb4e1cd 1576,1633,1857
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "266dc8e022ad57098acf2eddd75d4832b2b7753c",
+  "prompts": {},
+  "humans": {
+    "h_0f19d15cb4e1cd": {
+      "author": "Sergii Sukhanov <sergii.sukhanov@deliveryhero.com>"
+    }
+  }
+}
